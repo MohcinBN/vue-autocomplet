@@ -1,6 +1,6 @@
 <template>
   <div class="about flex flex-col items-center">
-    <h1>Search/h1>
+    <h1>Search</h1>
 
     <div class="container mx-auto px-4">
       <input class="bg-gray-400 rounded py-2 px-4 w-24 w-1/2" type="text"
